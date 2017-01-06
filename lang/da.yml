@@ -1,0 +1,5 @@
+da:
+  NocaptchaField:
+    EMPTY: "Venligst besvar Captcha testen, hvis du ikke kan se Captcha testen skal du aktivere JavaScript."
+    NOSCRIPT: "Du skal have JavaScript aktiveret for at sende denne formular"
+    VALIDATE_ERROR: "Captcha kunne ikke valideres"
